@@ -20,7 +20,7 @@ The script:
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone (https://github.com/hiremathkedar/Sentiment-analysis-using-python-and-NLP)
 cd your-repo-name
 
 Install requirements
